@@ -11,5 +11,8 @@ elif symbol == "/":
         print("Error, Division by zero is not possible.")
     else:
         print("The quotient of number: ", number1 / number2)
-else:
+elif symbol == "*":
     print("The product of number: ", number1 * number2)
+else:
+    print("Error")
+
