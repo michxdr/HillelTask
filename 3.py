@@ -1,6 +1,6 @@
 number1 = int(input("Enter first number: "))
 number2 = int(input("Enter second number: "))
-symbol = input("Enter symbol: ")
+symbol = input("Enter symbol (+, -, * or /): ")
 
 if symbol == "+":
     print("The sum of number: ", number1 + number2)
