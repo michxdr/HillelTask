@@ -16,3 +16,4 @@ elif symbol == "*":
 else:
     print("Error")
 
+
